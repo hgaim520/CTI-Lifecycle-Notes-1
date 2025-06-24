@@ -9,10 +9,25 @@ Sources: <br />
 
 # Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle 
 
+Bottom Line, Front Up:
+![image](https://github.com/user-attachments/assets/22d49cfd-90ab-4478-9844-c94d6a7246a7)
+
+
+
+
 # Situation:
 
-## Discussion:
+![image](https://github.com/user-attachments/assets/8de337b4-a36a-4802-8f40-f0cebc88c944)
 
+
+## Discussion: 
+Below is an image with the three various models - and noted sources - found for the CTI Lifecycle 
+
+![image](https://github.com/user-attachments/assets/c6a5ae9a-1751-48a8-8922-012d68528b64)
+
+On review, three aspects are of prima facia interest: 
+
+###
 ### Conclusion: 
 
 
