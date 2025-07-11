@@ -9,6 +9,8 @@ Sources: <br />
 
 # Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle 
 
+<H1>Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle</H1>
+
 Bottom Line, Front Up:
 ![image](https://github.com/user-attachments/assets/22d49cfd-90ab-4478-9844-c94d6a7246a7)
 
@@ -36,9 +38,15 @@ Let's compare -
 
 ### (b) Implications 
 <img width="1011" height="290" alt="image" src="https://github.com/user-attachments/assets/cab98b22-baff-4afc-b572-570f163d5ade" />
+<br />
+<br />
+<br />
 
 
+<img width="467" height="270" alt="image" src="https://github.com/user-attachments/assets/80c3e3d3-e426-401e-a1a8-3b6266b37448" />
 
+<br /> 
+<br />
 
 
 
