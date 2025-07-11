@@ -28,16 +28,17 @@ Below is an image with the three various models - and noted sources - found for 
 On review, three aspects are of prima facia interest: 
 
 
-### The amount of steps in each lifestyle manifestation. 
+### (a) The amount of steps in each lifestyle manifestation. 
 
 Let's compare - 
 
 ![image](https://github.com/user-attachments/assets/76f24496-76bd-43fa-afb5-1f69f0f67798)
 
 ### (b) Implications 
-![image](https://github.com/user-attachments/assets/86286e0d-9388-4d6a-99fd-13aaf96b8271)
+<img width="1011" height="290" alt="image" src="https://github.com/user-attachments/assets/cab98b22-baff-4afc-b572-570f163d5ade" />
 
-![image](https://github.com/user-attachments/assets/8367a375-f62c-41fb-a8a4-fa43804341b5)
+
+
 
 
 
